@@ -1,0 +1,10 @@
+h1{
+    border: 3px dashed #b5cbe2;
+    text-align: center;
+}
+h5{
+    border: 3px solid #b5cbe2;
+}
+ol{
+    padding-left: 20px;
+}
